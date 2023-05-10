@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_educateur_accueil"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_accueil" />
+
+    <item
+        android:id="@+id/navigation_educateur_eleves"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="@string/title_eleves" />
+
+    <item
+        android:id="@+id/navigation_educateur_activites"
+        android:icon="@drawable/ic_baseline_games_24"
+        android:title="@string/title_activites" />
+    <item
+        android:id="@+id/navigation_educateur_categories"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/title_categories" />
+
+</menu>

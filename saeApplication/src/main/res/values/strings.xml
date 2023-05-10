@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SAE</string>
+
+    <!-- Titre -->
+
+    <string name="title_accueil">Accueil</string>
+    <string name="title_eleves">Élèves</string>
+    <string name="title_activites">Activités</string>
+    <string name="title_categories">Categories</string>
+    <string name="TitreProfil">Éducateur</string>
+    <string name="competence">Compétence</string>
+
+    <!-- Titre -->
+    <!-- Button -->
+
+    <string name="se_connecter">Se Connecter</string>
+    <string name="txtconnexion">Connexion</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="valider">Valider</string>
+    <string name="recherche">Rechercher</string>
+    <string name="Enregistrer">Enregistrer</string>
+
+    <!-- Button -->
+    <!-- Page Connexion -->
+
+    <string name="Nom_utilisateur">Nom d\'utilisateur :</string>
+    <string name="Mot_de_passe">Mot de passe :</string>
+    <string name="Rester_connecté">Rester connecté</string>
+
+    <!-- Page Connexion -->
+    <!-- Page accueil -->
+
+    <string name="Début">Début</string>
+    <string name="Choix_de_activité">Choix de l\'activité</string>
+    <string name="Ajout_éducateur">Ajout d\'un éducateur</string>
+    <string name="Ajout_élève">Ajout d\'un élève</string>
+    <string name="Historique">Historique</string>
+    <string name="Session">Session</string>
+
+    <!-- Page accueil -->
+
+    <string name="nom_prenom_profil">Nom Prenom</string>
+    <string name="fermer">fermer</string>
+    <string name="test">test</string>
+
+
+    <string name="menu">Menu</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+
+    <string name="ajouter_une_competence">ajouter une compétence</string>
+
+
+    <string name="Nom_de_la_compétence">Nom de la compétence :</string>
+    <string name="Description_de_la_compétence">Description de la compétence :</string>
+    <string name="Ajouter_une_catégorie">Ajouter une catégorie</string>
+    <string name="Nouvelle_Compétence">Nouvelle Compétence</string>
+
+
+    <string name="nonNoté">non Noté</string>
+    <string name="rejouer">rejouer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
